@@ -1,7 +1,7 @@
 # MySQL DB details
-[expose_mysql_data]
+[sfdc_sa_service]
 dbHost = "localhost"
-dbUser = "root"
-dbPassword = "Dcba#321"
-dbName = "UnifiedDashboards"
+dbUser = "***"
+dbPassword = "***"
+dbName = "***"
 dbPort = 3306
