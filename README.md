@@ -1,2 +1,2 @@
 # ballerina-samples
-Ballerin Sample
+Ballerina Sample
